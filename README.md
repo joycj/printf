@@ -98,4 +98,4 @@
 **writee_handlers.c**
 * contains write functions.
 
-By Linus Chidera and Goodness Nwaneri
+By Okeke Chinenye and Tijani Titilayo
